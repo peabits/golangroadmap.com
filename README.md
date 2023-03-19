@@ -11,4 +11,4 @@ Gopher-13795-5867
 
 链接直达：[https://www.golangroadmap.com/](https://www.golangroadmap.com/)
 
-![www.golangroadmap.com](./www.golangroadmap.com.jpeg)
+![www.golangroadmap.com](./img/www.golangroadmap.com.jpeg)
